@@ -1,0 +1,6 @@
+name: Deploy Spring Boot to ECS
+
+on: 
+   push:
+     branches:
+        - main
